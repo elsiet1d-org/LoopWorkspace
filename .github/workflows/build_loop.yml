@@ -217,7 +217,7 @@ jobs:
           2hlollipop \
           meal_week \
           negative_insulin \
-          remote_window \
+          remote_window
           
 
           # the final customization listed above CANNOT have a continuation character
